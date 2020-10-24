@@ -19,3 +19,20 @@
     <br />
 </p>
 
+## Presentación
+
+Se presentan 3 juegos cortos para este workshop:
+
+- **Juego 1:** ¿Eres capaz de encontrar las diferencias que existen entre dos imágenes? 
+- **Juego 2:** Contar la mayor cantidad de objetos en el menor tiempo posible.
+- **Juego 3:** Un Trivia Game con Pygame
+
+ <img src="https://github.com/cabustillo13/Jugando-con-Python/blob/main/Recursos/workshop.jpg" height="300" width="550">
+
+Para más información ver el reporte:[Ver presentación](https://github.com/cabustillo13/Jugando-con-Python/blob/main/Recursos/Presentacion.pdf)
+
+Para la realización de está temática me base en mi repositorio desarrollado para la [PyCon Bolivia 2020](https://github.com/cabustillo13/Pycon-Bolivia)
+
+## Licencia
+
+Este repositorio presenta licencia (MIT).
