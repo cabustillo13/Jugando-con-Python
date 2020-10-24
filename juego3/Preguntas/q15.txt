@@ -1,0 +1,5 @@
+¿ Con qué función guardo una imagen con OpenCV ?
+.imread()
+.imwrite()
+.save()
+B

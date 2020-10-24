@@ -1,0 +1,6 @@
+¿ Cuáles son tipos de datos en Python ?
+String, lista y número
+Diccionario y Tupla
+Todas las anteriores
+C
+ 

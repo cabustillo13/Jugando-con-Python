@@ -1,0 +1,6 @@
+¿ Con qué función cargo una imagen con OpenCV ?
+.imread()
+.read()
+.load()
+A
+ 

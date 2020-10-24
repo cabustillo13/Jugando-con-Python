@@ -1,0 +1,6 @@
+¿ Puedo correr Trivia Game con Python 2.7 ?
+Obvio nene
+No
+Sí
+B
+ 

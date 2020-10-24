@@ -1,0 +1,5 @@
+¿ Quién es el autor de Python ?
+Bad Bunny
+Guido van Rossum
+Dennis Ritchie
+B
